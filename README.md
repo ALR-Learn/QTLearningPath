@@ -1,3 +1,3 @@
 # QTLearningPath
 
-- [QT HelloWorld](helloqt)
+- [QT HelloWorld](HelloQT)
